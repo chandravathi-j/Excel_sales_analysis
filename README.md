@@ -50,3 +50,6 @@ This project focuses on analyzing sales data using Microsoft Excel. The objectiv
 This project helped me develop practical skills in Microsoft Excel, data analysis, business reporting, and data visualization.
 
 *Note: This project uses sample data for learning and portfolio demonstration purposes.*
+## 📊 Sales Dashboard
+
+![Sales Dashboard](dashboard.png)
